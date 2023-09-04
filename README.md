@@ -3,10 +3,10 @@
 Hello! I'm game client development :) <br>
 Welcome to my github!
 
-### Main Language
+### ✨ Main Language
 
 <img src="https://img.shields.io/badge/C-#A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <!--
 **gus6615/gus6615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
