@@ -1,6 +1,6 @@
 ### Hi there 👋
+## Who am I?
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gus6615)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gus6615/gus6615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
