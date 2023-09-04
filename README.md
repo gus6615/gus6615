@@ -5,7 +5,9 @@ Welcome to my github!
 
 ### ✨ Main Language
 
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C#-239128?style=for-the-badge&logo=csharp&logoColor=white">
 
 <!--
 **gus6615/gus6615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
