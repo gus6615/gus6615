@@ -25,9 +25,9 @@ Welcome to my github!
 
 ### 📫 Contect
 
-[Link](wns6615@gmail.com) For 'Email'<br>
-[Link](https://gus6615.tistory.com/) For 'Blog'<br>
-[Link](https://www.youtube.com/channel/UCU2NanlRUEaJ1-E-5t8EokA) For 'Youtube'<br>
+Email: wns6615@gmail.com
+Click [Link](https://gus6615.tistory.com/) For 'Blog'<br>
+Click [Link](https://www.youtube.com/channel/UCU2NanlRUEaJ1-E-5t8EokA) For 'Youtube'<br>
 
 
 <!--
