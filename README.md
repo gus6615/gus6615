@@ -1,7 +1,7 @@
 ## Profile 💬
 
 Hello! I'm game client development :) <br><br>
-Welcome to my github! <br>
+Welcome to my github!
 
 ### ✨ Stack
 
