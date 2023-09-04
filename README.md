@@ -25,7 +25,10 @@ Welcome to my github!
 
 ### 📫 Contect
 
-Email: wns6615@gmail.com <br/>
+[Link](wns6615@gmail.com) For 'Email'<br>
+[Link](https://gus6615.tistory.com/) For 'Blog'<br>
+[Link](https://www.youtube.com/channel/UCU2NanlRUEaJ1-E-5t8EokA) For 'Youtube'<br>
+
 
 <!--
 **gus6615/gus6615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
