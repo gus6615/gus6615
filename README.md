@@ -1,11 +1,11 @@
 ## Profile 💬
 
-Hello! I'm game client development :)
+Hello! I'm game client development :) <br>
 Welcome to my github!
 
-### Stack ✨
+### Main Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gus6615&layout=compact)](https://github.com/delay-100/github-readme-stats)
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 
 
 <!--
