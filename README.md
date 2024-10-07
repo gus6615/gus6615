@@ -27,6 +27,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gus6615)](https://solved.ac/gus6615/)
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gus6615&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 ### 📫 Contect
