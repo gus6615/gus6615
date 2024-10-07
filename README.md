@@ -25,6 +25,10 @@
 
 <br/>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gus6615)](https://solved.ac/gus6615/)
+
+
+
 ### 📫 Contect
 
 Email: wns6615@gmail.com <br/>
