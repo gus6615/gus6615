@@ -1,21 +1,16 @@
 ## Profile 💬
-
-<br/>
-
-  Hello! I'm game client development :) <br/>
-  Welcome to my github!
-
-<br/>
-
 ### 😄 About Me
 
-* Unity 엔진을 5년 간 다루면서 3개의 개인 프로젝트와 5개의 팀 프로젝트 개발
-* 땅파서 돈벌기 모바일 게임 구글 스토어 출시 후 다운로드 10,000회 이상 & 평점 4.7 기록
-* 땅파서 돈벌기 모바일 게임 약 3년 동안 라이브 서비스 경험
-* Guild Studio 인디 게임 개발 팀 협업 경험
+* **[Gear2]** 하이브리드 캐주얼 신작 R&D 근무 (Unity 클라이언트)
+* **[Cookapps]** 2024 슈퍼루키 인턴쉽 근무 (Unity 클라이언트)
+* **[Guild Studio]** 2024 PlayX4 참여 및 스팀 출시 (Unity 클라이언트)
+
+<br/>
+
+* Unity 엔진을 6년 간 다루면서 PC 및 Mobile, AR, VR 플랫폼 게임 제작 경험
+* 땅파서 돈벌기 AOS 출시 및 3년 간 라이브 서비스 (다운로드 10,000회 이상 & 평점 4.8)
 * EDGE 게임 개발 동아리 팀 협업 및 회장 경험
 * UNIDEV 전국 게임 개발 동아리 연합회 UNIJEM(게임잼) 메인 프로그래머 참가
-* PC 및 Mobile, AR, VR 플랫폼 게임 제작 경험
 
 <br/>
 
@@ -33,7 +28,7 @@
 ### 📫 Contect
 
 Email: wns6615@gmail.com <br/>
-
+Blog: https://gus6615.tistory.com/ <br/>
 
 <!--
 **gus6615/gus6615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
